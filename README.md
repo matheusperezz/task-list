@@ -8,7 +8,7 @@
 
 Esta aplicação foi desenvolvida exclusivamente para Android.
 
-O intuito dessa criação é testar o [Material You](https://m3.material.io/) e seus componentes. Você poderá baixar o aplicativo [clicando aqui](https://github.com/matheusperezz/task-list/releases/download/v1.0.0/app-task-list.apk) ou indo até as Releases.
+O intuito dessa criação é testar o [Material You](https://m3.material.io/) e seus componentes.
 
 ### O que essa aplicação faz?
 
@@ -19,6 +19,10 @@ O intuito dessa criação é testar o [Material You](https://m3.material.io/) e 
 ## O que ela não faz ?
 
 * Não persiste os dados
+
+## Como baixar
+
+Você pode fazer o download do aplicativo [clicando aqui](https://github.com/matheusperezz/task-list/releases/download/v1.0.0/app-task-list.apk) ou indo até as Releases.
 
 ## Galeria
 
