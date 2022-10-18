@@ -20,7 +20,7 @@ O intuito dessa criação é testar o [Material You](https://m3.material.io/) e 
 
 * Não persiste os dados
 
-## Como baixar
+## Download
 
 Você pode fazer o download do aplicativo [clicando aqui](https://github.com/matheusperezz/task-list/releases/download/v1.0.0/app-task-list.apk) ou indo até as Releases.
 
