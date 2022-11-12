@@ -39,8 +39,6 @@ Você pode fazer o download do aplicativo [clicando aqui](https://github.com/mat
 <p align="center">
   <img src="https://i.imgur.com/MfwY9MT.jpg" width=200/>
 
-  <img src="https://i.imgur.com/6pAj4Vu.jpg" width=200/>
-
   <img src="https://i.imgur.com/IOQjHmX.jpg" width=200/>
 
 </p>
